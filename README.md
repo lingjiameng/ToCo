@@ -1,4 +1,4 @@
 # ToCo
 
 ## team member ##
-- @FlouriteJ
+- @[FlouriteJ](https://github.com/FlouriteJ)
