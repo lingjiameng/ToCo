@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogues>
+
+    <dialogue>
+        <role>露娜</role>
+        <detail>请问……你们有看到过利维坦大人吗？</detail>
+    </dialogue>
+
+	<dialogue>
+        <role>露娜</role>
+        <detail>我似乎睡了很久……醒来之后主人就不见，连一直陪着我的姐姐也不见了……</detail>
+    </dialogue>
+    <dialogue>
+        <role>艾托</role>
+        <detail>（小声）利维坦……竟然是真的？话说刚才在房间里没有看到过她啊…</detail>
+    </dialogue>
+
+    <dialogue>
+        <role>露娜</role>
+        <detail>肚子好饿……</detail>
+    </dialogue>
+
+    <dialogue>
+        <role>艾托、伊瑞斯</role>
+        <detail>……</detail>
+    </dialogue>
+</dialogues>
