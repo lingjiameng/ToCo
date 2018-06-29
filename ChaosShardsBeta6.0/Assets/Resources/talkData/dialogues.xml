@@ -1,0 +1,135 @@
+﻿<dialogues>
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_0</left>
+		<right></right>
+		<detail>这里是……哪里？</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>露娜</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>定位中……无法连接到当前区域……</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>露娜</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>主人，这里似乎是在韦诺大陆之外，置信概率大于95%</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>露娜</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>不具备当前区域地图信息，是否需要开始侦察，请指示。</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>（……这孩子是不是饿得神志不清了）</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_2</left>
+		<right>luna</right>
+		<detail>喂，你没事吧……突然叫人“主人”什么的，很容易误会的啊！</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>露娜</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>本机当前状态良好，损害：无。根据“穿梭”能量源判断，你是我的主人。</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_0</left>
+		<right></right>
+		<detail>……算了，没办法和这孩子正常沟通……</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_0</left>
+		<right></right>
+		<detail>（话说回来，刚才她好像提到这里在韦诺之外？）</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_0</left>
+		<right></right>
+		<detail>（还是去调查一下周围的情况吧……）</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>露娜</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>请下达指示。</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>那个，我去周围转一下，你就乖乖地呆在这里，千万别乱跑啊……</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>露娜</role>
+		<left>eto_0</left>
+		<right>luna</right>
+		<detail>“乖乖地”……指令理解，原地待机。</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>？？？</role>
+		<left>kid_d</left>
+		<right></right>
+		<detail>你们两个！在赛尔扎维德大人的神殿外边鬼鬼祟祟的做什么？</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>kid_0</left>
+		<right>eto_0</right>
+		<detail>啊！原来这里也有人的啊。那个，那位赛尔什么的大人究竟是……</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>少年</role>
+		<left>kid_1</left>
+		<right>eto_0</right>
+		<detail>是赛·尔·扎·维·德大人啦！</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>少年</role>
+		<left>kid_2</left>
+		<right>eto_0</right>
+		<detail>以风神·赛尔扎维德大人的仆从之名，逮捕面前不敬的亵渎者！</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>kid_2</left>
+		<right>eto_2</right>
+		<detail>突然射箭过来，很危险的啊！</detail>
+	</dialogue>
+
+	<dialogue>
+		<role>艾托</role>
+		<left>kid_0</left>
+		<right>eto_1</right>
+		<detail>可恶，我也不是好欺负的…！西卡里，我们上！</detail>
+	</dialogue>
+
+</dialogues>

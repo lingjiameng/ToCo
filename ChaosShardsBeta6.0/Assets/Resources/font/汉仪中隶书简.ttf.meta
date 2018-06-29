@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5369059e2873e4d4d8d02848ba0b1425
+timeCreated: 1529897848
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYZhongLiShuJ
+  fontNames:
+  - HYZhongLiShuJ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
